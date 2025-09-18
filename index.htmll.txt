@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Happy Sankranthi!</title>
+    <style>
+        body {
+            background-color: #fff8dc;
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 50px;
+            color: #d2691e;
+        }
+        h1 {
+            font-size: 3em;
+            color: #ff4500;
+        }
+        p {
+            font-size: 1.5em;
+        }
+        .kite {
+            width: 200px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>🎉 Happy Sankranthi! 🎉</h1>
+    <p>Wishing you and your family joy, peace, and prosperity!</p>
+    
+    <!-- Optional Kite Image -->
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Kite-flying.png" alt="Kite" class="kite">
+
+    <p>Enjoy the kites, sweets, and traditions! 🪁</p>
+</body>
+</html>
